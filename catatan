@@ -5,6 +5,24 @@ pemograman OOP
 strongly type tidak bisa mengkonversi
 dari int ke str
 bersifat opensource
-membuat file hello.ts
+percobaan pada file hello.ts
 
 //materi 2
+install plugin nodejs agar gampang
+ketika compile typescript 
+intallnya "npm install -g ts-node"
+ketika compile tinggal "ts-node namafile.ts"
+
+pastikan typescript juga terinstall
+cek apa saja yg diinstall
+"npm -g --depth=0"
+
+penggunaan ts-node untuk develop
+ketika production tetep melalui compile ke js dahulu
+
+tipe data primitiv
+pada ts lebih ketat dalam penamaan tipe data dengan isi tipe datanya
+- boolean
+- string
+- number
+percobaan pada file tipeData.ts
