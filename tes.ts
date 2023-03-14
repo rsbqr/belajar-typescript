@@ -5,4 +5,3 @@ return `Hai ${name}`
 let response: string =sapaNama("Raihan"); 
 // let response: string =sapaNama(name:"Raihan"); gabisa pake name
 console.log(response);
-
