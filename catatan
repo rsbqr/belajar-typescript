@@ -26,3 +26,27 @@ pada ts lebih ketat dalam penamaan tipe data dengan isi tipe datanya
 - string
 - number
 percobaan pada file tipeData.ts
+
+//materi 3
+tipe data array
+array itu kumpulan data dalam 1 tempat (larik)
+
+ada 2 cara buat array
+percobaan pada file tipedataArray.ts
+
+tipe data tuple
+untuk buat lebih dari 1 tipe data
+percobaan pada file tipedataTuple.ts
+
+bedanya Array dan tuple
+Array bisa ditambah datanya karena tipe data dinamis
+Tuple tidak bisa ditambah datanya karena buka tipe data dinamis**
+
+sekarang tuple bisa pakai push (tambah) dan pop (hapus data)
+
+//materi 4
+tipe data enum 
+untuk data data yang sudah pasti seperti jenis kelamin
+menggunakan enum namaVariabel{ }
+
+**ketika 3 tahun lalu
